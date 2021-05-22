@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2358e2f4-9a8e-43e5-aa65-578cf3253faf" name="Default Changelist" comment="" />
+    <list default="true" id="2358e2f4-9a8e-43e5-aa65-578cf3253faf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,10 +49,24 @@
       <command value="`npm run-script build" />
       <command value="npm run-script build`" />
       <command value="npm build" />
+      <command value="npm run build" />
+      <command value="npm run clean-force" />
+      <command value="npm run predeploy" />
+      <command value="npm run deploy" />
     </option>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
     <configuration name="clean-force" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -97,6 +114,7 @@
         <item itemvalue="npm.deploy" />
         <item itemvalue="npm.predeploy" />
         <item itemvalue="npm.clean-force" />
+        <item itemvalue="npm.build" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +126,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621665415495</updated>
-      <workItem from="1621665416596" duration="3702000" />
+      <workItem from="1621665416596" duration="4802000" />
     </task>
     <servers />
   </component>
