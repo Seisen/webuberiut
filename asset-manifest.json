@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/webuberiut/static/css/main.5e006673.chunk.css",
+    "main.js": "/webuberiut/static/js/main.e1fccfe5.chunk.js",
+    "main.js.map": "/webuberiut/static/js/main.e1fccfe5.chunk.js.map",
+    "runtime-main.js": "/webuberiut/static/js/runtime-main.06e010a8.js",
+    "runtime-main.js.map": "/webuberiut/static/js/runtime-main.06e010a8.js.map",
+    "static/js/2.8d17b3cd.chunk.js": "/webuberiut/static/js/2.8d17b3cd.chunk.js",
+    "static/js/2.8d17b3cd.chunk.js.map": "/webuberiut/static/js/2.8d17b3cd.chunk.js.map",
+    "static/js/3.1466b8d9.chunk.js": "/webuberiut/static/js/3.1466b8d9.chunk.js",
+    "static/js/3.1466b8d9.chunk.js.map": "/webuberiut/static/js/3.1466b8d9.chunk.js.map",
+    "index.html": "/webuberiut/index.html",
+    "static/css/main.5e006673.chunk.css.map": "/webuberiut/static/css/main.5e006673.chunk.css.map",
+    "static/js/2.8d17b3cd.chunk.js.LICENSE.txt": "/webuberiut/static/js/2.8d17b3cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06e010a8.js",
+    "static/js/2.8d17b3cd.chunk.js",
+    "static/css/main.5e006673.chunk.css",
+    "static/js/main.e1fccfe5.chunk.js"
+  ]
+}
