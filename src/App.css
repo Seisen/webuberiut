@@ -1,0 +1,41 @@
+:root{
+    font-size: 16px;
+    font-family: "Grill Sans", sans-serif;
+}
+
+html{
+    overflow-x: hidden;
+}
+
+ul{
+    list-style: url("bike.png");
+    margin-left: 2rem;
+}
+
+ul p{
+    margin: 0 0;
+    margin-right: 3rem;
+}
+
+li{
+    margin-top: 2rem;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+h3, footer{
+    color: limegreen;
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    margin-top: 3rem;
+}
+
+p{
+    text-align: justify;
+    margin: 0 3rem;
+}
